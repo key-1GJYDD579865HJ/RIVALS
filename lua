@@ -446,7 +446,7 @@ end)
 
 groupBtn.MouseButton1Click:Connect(function()
 
-	local link = "https://linkurl.pk/tiwt-wjg"
+	local link = "https://linkurl.pk/avt88SA-"
 
 	pcall(function()
 		GuiService:OpenBrowserWindow(link)
